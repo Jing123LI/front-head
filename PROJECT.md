@@ -13,9 +13,9 @@
 - [Highcharts中文教程](http://www.hcharts.cn/demo/index.php?p=13)
 - [echarts](http://echarts.baidu.com/)
 - [d3](http://d3js.org/)
-- https://github.com/mbostock/d3/wiki/Gallery
-- http://blog.csdn.net/fanzhang1990/article/details/20385535
-- http://www.tuicool.com/articles/VJnaaa
-- http://www.bjmagicdata.com/article.php
-- http://blog.mn886.net/chenjianhua/show/773c07b3abce/index.html
-- http://blog.csdn.net/tianxuzhang/article/details/14102223
+ https://github.com/mbostock/d3/wiki/Gallery
+ http://blog.csdn.net/fanzhang1990/article/details/20385535
+ http://www.tuicool.com/articles/VJnaaa
+ http://www.bjmagicdata.com/article.php
+ http://blog.mn886.net/chenjianhua/show/773c07b3abce/index.html
+ http://blog.csdn.net/tianxuzhang/article/details/14102223
